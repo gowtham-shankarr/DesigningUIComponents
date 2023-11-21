@@ -1,1 +1,1 @@
-# A refreshed GM design library for All Developers.
+# A refreshed design library for All Developers.
